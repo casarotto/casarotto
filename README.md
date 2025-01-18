@@ -13,7 +13,7 @@
 - 💼 [LinkedIn](https://linkedin.com/in/raphaelcasarotto)  
 - 🖥️ [Portfolio](#)
 -->
-- 📬 Reach me at: **[raphaelcasarotto@gmail.com]**  
+- 📬 Reach me at: **raphaelcasarotto@gmail.com**  
 
 ## 🛠️ Technologies & Tools  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
